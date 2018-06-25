@@ -1,0 +1,2099 @@
+{
+  "settings": {
+    "name": "Projeto Vida Quadrangular Official",
+    "currentPage": "page6.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#b9dfc7",
+        "#488148",
+        "#a2e2bb",
+        "#e9e6e5",
+        "#c8f1c1",
+        "#37383e",
+        "#fcfcfc"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "versionFirst": "4.7.7",
+    "uniqCompNum": 85,
+    "versionPublish": "4.7.7",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Inicio",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fbf2be",
+            "hamburgerColor": "#f4bfbb"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><strong>Início</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><strong>Quem Somos?</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\"><strong>O Que Fazemos</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\"><strong>Galeri</strong><strong>a</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Contato</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Partnerships</strong></a></li>",
+          "buttons": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\"><strong>Doe Agora</strong><strong>!</strong><strong><br></strong></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/prefeitura-186x62.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons"
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CCA Quadrangular</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#f4bfbb"
+            },
+            ".nav-link": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/image-1-960x640.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "Projeto Vida Quadrangular",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "     <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Sobre Nós</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">O que fazemos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Galeria</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Contato</a>  ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7e9eaf24-3cd7-4a68-9bd5-277790ea0827-2-1040x780.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projeto Vida &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quadrangular</p>",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Sobre Nós</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">O Que Fazemos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Galeria</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Contato</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7541-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "Projeto Vida Quadrangular",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Sobre Nós</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">O Que Fazemos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Galeria</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Contato</a>  ",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-u",
+          "_styles": {
+            "H2": {
+              "text-align": "right",
+              "color": "#000000"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfcfc",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cca-1-265x329.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "90",
+              "color": "#5cb85c"
+            }
+          },
+          "text1": "<font color=\"#0275d8\"><b>Encontre-nos</b></font><br>Av. Anacé. 551<br>Jd. Umarizal, São Paulo – SP 05755-090<br>",
+          "text2": "<font color=\"#0275d8\"><b>Contate-nos</b></font><br>projetovida.ong@gmail.com<br>Tel: (11) 5841-0475<br>Cel: (11) 94536-8957<br>",
+          "text3": "<font color=\"#0275d8\"><b>Faça uma doação</b></font><br><ul><li>Doe Agora</li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-w",
+          "_styles": {
+            "P": {
+              "color": "#f1c050"
+            },
+            "STRONG": {
+              "color": "#0275d8"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Siga-nos em:",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Projeto-Vida-Quadrangular-1946605802296016/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/user/projetovida32\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/projetovidaquadrangular/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-p",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Galeria",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fbf2be",
+            "hamburgerColor": "#f4bfbb"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><strong>Início</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><strong>Quem Somos?</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\"><strong>O Que Fazemos</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\"><strong>Galeri</strong><strong>a</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Contato</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Partnerships</strong></a></li>",
+          "buttons": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\"><strong>Doe Agora</strong><strong>!</strong><strong><br></strong></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/prefeitura-186x62.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CCA Quadrangular</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#f4bfbb"
+            },
+            ".nav-link": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-q"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/quadro-background-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a2e2bb",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mural&nbsp;",
+          "text": "<br><br>Aqui estão algumas fotos representando nossos diferentes &nbsp;eventos que organizamos para nossas crianças. Disponibilizamos eventos representando diversas culturas, esportes e eventos com o propósito de estimular sua criativitade, solidaridade e respeito ao próximo.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-z",
+          "_styles": {
+            "H1": {
+              "font-size": "100px"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#badfc8",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/7e9eaf24-3cd7-4a68-9bd5-277790ea0827-1040x780.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7e9eaf24-3cd7-4a68-9bd5-277790ea0827-1040x780-800x597.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/66947-575957319133955-1840109650-n-713x325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/66947-575957319133955-1840109650-n-713x325-713x325.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/208756e5-36eb-46d9-a659-05b29538c105-1040x780.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/208756e5-36eb-46d9-a659-05b29538c105-1040x780-800x593.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1457519-2133624226664539-7685529394161903677-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1457519-2133624226664539-7685529394161903677-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/11745891-918341158228901-6023666961282210884-n-720x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11745891-918341158228901-6023666961282210884-n-720x720-720x576.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/13423950-1096682590394756-3573487183803446028-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13423950-1096682590394756-3573487183803446028-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/13427884-1096682563728092-757075816783560829-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13427884-1096682563728092-757075816783560829-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29571314-2133623523331276-1835830270580452608-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29571314-2133623523331276-1835830270580452608-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7a3157f0-6692-477a-a169-23f2dc09b4f4-1040x780.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7a3157f0-6692-477a-a169-23f2dc09b4f4-1040x780-800x585.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29571314-2133623523331276-1835830270580452608-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29571314-2133623523331276-1835830270580452608-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29571371-2133623389997956-4948268792284823944-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29571371-2133623389997956-4948268792284823944-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29572348-2133624039997891-3946579811724766512-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29572348-2133624039997891-3946579811724766512-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29572960-2133624219997873-3981450665347452796-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29572960-2133624219997873-3981450665347452796-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29573171-2133623973331231-8895382536189532461-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29573171-2133623973331231-8895382536189532461-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29594596-2133624163331212-4771234525037156410-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29594596-2133624163331212-4771234525037156410-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29594909-2133623773331251-6299860559629518729-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29594909-2133623773331251-6299860559629518729-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29595322-2133624349997860-3130880914076531396-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29595322-2133624349997860-3130880914076531396-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29595436-2133624139997881-6543827536669823849-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29595436-2133624139997881-6543827536669823849-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29595531-2133623326664629-3488819082085010703-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29595531-2133623326664629-3488819082085010703-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29597770-2133623476664614-3761570022313447149-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29597770-2133623476664614-3761570022313447149-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29597809-2133624299997865-6244035559013599973-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29597809-2133624299997865-6244035559013599973-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29598155-2133623746664587-2273675248307166849-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29598155-2133623746664587-2273675248307166849-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29683236-2133623626664599-5931438606208823637-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29683236-2133623626664599-5931438606208823637-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29683454-2133623346664627-2208024004692117052-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29683454-2133623346664627-2208024004692117052-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29695288-2133623473331281-5457055272511334296-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29695288-2133623473331281-5457055272511334296-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29790293-2133624323331196-2201192240759443891-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29790293-2133624323331196-2201192240759443891-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29790503-2133624189997876-6226303001206360625-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29790503-2133624189997876-6226303001206360625-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29790937-2133624126664549-511126427306993315-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29790937-2133624126664549-511126427306993315-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29791068-2133623443331284-7984633619022799667-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29791068-2133623443331284-7984633619022799667-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29791197-2133623826664579-5900872646905849479-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29791197-2133623826664579-5900872646905849479-n-720x960-720x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/32187069-1825378910858450-2885391748513660928-n-960x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/32187069-1825378910858450-2885391748513660928-n-960x640-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/32892517-1836262773103397-5730613020095152128-n-715x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/32892517-1836262773103397-5730613020095152128-n-715x960-715x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/33995724-1850348585028149-1325953680989487104-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/33995724-1850348585028149-1325953680989487104-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/34030229-1850348661694808-8141361108024819712-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/34030229-1850348661694808-8141361108024819712-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/34398146-1855536101176064-5217540947084050432-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/34398146-1855536101176064-5217540947084050432-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/34443349-1855536091176065-1624215417117474816-n-1-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/34443349-1855536091176065-1624215417117474816-n-1-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/34484878-1855536121176062-8492606484134232064-n-960x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/34484878-1855536121176062-8492606484134232064-n-960x640-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/34511541-1855536134509394-4930652829816717312-n-960x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/34511541-1855536134509394-4930652829816717312-n-960x640-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/34560314-1855536097842731-7092968932625088512-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/34560314-1855536097842731-7092968932625088512-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/34560494-1855536117842729-5129632308088799232-n-960x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/34560494-1855536117842729-5129632308088799232-n-960x640-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/c1d7f63f-f624-4aa9-a463-3e60ecdd1344-1040x780.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c1d7f63f-f624-4aa9-a463-3e60ecdd1344-1040x780-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/e26fbe3b-022c-4253-b6e4-5fc8aa0d580f-1040x780.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/e26fbe3b-022c-4253-b6e4-5fc8aa0d580f-1040x780-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7540-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7540-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7544-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7544-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7602-1858x1394.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7602-1858x1394-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7610-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7610-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7932-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7932-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7942-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7942-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7948-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7948-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7960-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7960-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7962-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7962-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7966-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7966-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7971-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7971-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7972-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7972-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-2721-720x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2721-720x720-720x720.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-11"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfcfc",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cca-1-265x329.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": "90",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "color": "#5cb85c",
+              "active": true
+            }
+          },
+          "text1": "<font color=\"#0275d8\"><b>Encontre-nos</b></font><br>Av. Anacé. 551<br>Jd. Umarizal, São Paulo – SP 05755-090<br>",
+          "text2": "<font color=\"#0275d8\"><b>Contate-nos</b></font><br>projetovida.ong@gmail.com<br>Tel: (11) 5841-0475<br>Cel: (11) 94536-8957<br>",
+          "text3": "<font color=\"#0275d8\"><b>Faça uma doação</b></font><br><ul><li>Doe Agora</li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-w",
+          "_styles": {
+            "P": {
+              "color": "#f1c050"
+            },
+            "STRONG": {
+              "color": "#0275d8"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Siga-nos em:",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Projeto-Vida-Quadrangular-1946605802296016/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/user/projetovida32\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/projetovidaquadrangular/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1s",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Quem Somos?",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fbf2be",
+            "hamburgerColor": "#f4bfbb"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><strong>Início</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><strong>Quem Somos?</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\"><strong>O Que Fazemos</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\"><strong>Galeri</strong><strong>a</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Contato</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Partnerships</strong></a></li>",
+          "buttons": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\"><strong>Doe Agora</strong><strong>!</strong><strong><br></strong></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/prefeitura-186x62.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CCA Quadrangular</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#f4bfbb"
+            },
+            ".nav-link": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-12"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Sobre Nós",
+          "caption": "<p>O ESPAÇO INFANTIL EDUCACIONAL QUADRANGULAR PROJETO VIDA, foi fundado em 01/05/1995, na cidade de São Paulo, Estado de São Paulo, como Pessoa Jurídica de Direito Privado, constituída por tempo indeterminado, sem fins econômicos, de caráter filantrópico, de assistência social, recreativo, esportivo, socioeducativo, sem cunho político, partidário ou religioso, com a finalidade de atender a todos que dela necessitem.</p><p>Oferecemos atendimento na proteção social básica para 215 crianças e adolescentes através do Serviço de Convivência e Fortalecimento de Vínculos – CCA QUADRANGULAR. Atendemos às demandas do território atendido na área da assistência social, na região entre Vila Andrade e Campo Limpo, áreas de alta vulnerabilidade social. Dentre usuários são muito comuns crianças e adolescentes vítimas de violência doméstica, pessoal, sexual etc.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-16",
+          "_styles": {
+            "P": {
+              "color": "#ae9950"
+            },
+            ".mbr-section-title": {
+              "color": "#363232",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=TtAhPR_4Twc&t=5s",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Projeto Vida Quadrangular&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Ao lado temos um video que descreve um pouco &nbsp;de nossa missão e &nbsp;algumas historias da importância de nosso projeto",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-27"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/29595531-2133623326664629-3488819082085010703-n-1-960x720.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1w"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfcfc",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cca-1-265x329.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": "90",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "color": "#5cb85c",
+              "active": true
+            }
+          },
+          "text1": "<font color=\"#0275d8\"><b>Encontre-nos</b></font><br>Av. Anacé. 551<br>Jd. Umarizal, São Paulo – SP 05755-090<br>",
+          "text2": "<font color=\"#0275d8\"><b>Contate-nos</b></font><br>projetovida.ong@gmail.com<br>Tel: (11) 5841-0475<br>Cel: (11) 94536-8957<br>",
+          "text3": "<font color=\"#0275d8\"><b>Faça uma doação</b></font><br><ul><li>Doe Agora</li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-w",
+          "_styles": {
+            "P": {
+              "color": "#f1c050"
+            },
+            "STRONG": {
+              "color": "#0275d8"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Siga-nos em:",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Projeto-Vida-Quadrangular-1946605802296016/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/user/projetovida32\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/projetovidaquadrangular/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1r",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "O que fazemos",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Projetos",
+          "items": [
+            {
+              "authorName": "Antônio Carlos dos Santos Gomes&nbsp;",
+              "authorBio": "User",
+              "text": "<em>“O Projeto Vida foi sem sombra de dúvida um grande divisor de águas na minha vida no que diz respeito a perspectiva de vida, educação e também na formação do meu caráter, entrei aos 11 anos na instituição, na época meus pais se preocupavam com as horas vagas que eu tinha após o colégio e por isso me matricularam, no projeto tive acesso a aulas de natação, leitura, interação social, mas o que mais me marcou foi o trabalho de acompanhamento psicológico, ter esse tipo de cuidado contribui pra que eu pudesse ver a vida de outra perspectiva, me ajudou a sonhar e a entender que era possível ser aquilo que eu quisesse com tanto que eu me esforçasse e lutasse pra isso.”</em>"
+            },
+            {
+              "authorName": "Thathi Chinarelli",
+              "authorBio": "User",
+              "text": "<p><em>“SOU FELIZ POR TER O QUE O DINHEIRO NAO COMPRA! Sim, precisamos de dinheiro para viver. Mas, existe um mundo cheio de carinho, abracos, sorrisos, sentimentos que nao ha dinheiro nenhum que compre ou pague. Quando voce tem um dia que voce pode cuidar das suas coisas, descansar ou fazer o que quiser, mas escolhe fazer um trabalho VOLUNTARIO, muitas pessoas te acham louca, pelo simples fato de voce nao gastar esse tempo com voce mesmo e sim com os outros e por ser um trabalho nao remunerado. Mas quando voce segue seu sonho e seu coracao, faz o projeto de recreacao para criancas e adolescentes, gasta seu tempo para cuidar e ensinar, de vez ganhar dinheiro, voce ganhar abracos sinceros, amor, carinho e sentimentos que hoje em dia muitas pessoas esquecerem ou ja nem conhecen mais. Voce percebe que as riquezas da vida estao em momentos simples, com brincadeiras, risadas e em pequenos detalhes. Voce passa a valorizar mais a vida, a saude, a familia, as coisas que voce tem e que muitas vezes reclama \"de barriga cheia\", voce se torna um ser humano melhor. Eu agradeco a Deus por essas criancas e adolescente que fazem das minhas sextas-feiras dias melhores, dias que eu esquco do \"EU\" para cuidar delas, que me ensinam muito mais da vida do que eu ensino para elas e que me fazem refletir cuando chego em casa super cansada que mais uma vez vale a pena acordar cedo, enfrentar sono, frio, sol e o que for para estar ali. Hoje eu posso dizer que sou totalmente realizada e feliz com a minha profissao, com as minhas escolham que me fizeram chegar aonde estoy hoje.</em><em style=\"font-size: 1rem;\">”</em></p>"
+            },
+            {
+              "authorName": "Priscila Sales",
+              "authorBio": "User",
+              "text": "<em>“ Na minha opinião a Instituição Projeto Vida ajuda muito crianças e adolescentes a ficarem fora das ruas, porque ensina boas atividades, convívio com outras pessoas, além de fornecer ótimas refeições que complementam no desempenho dos alunos.</em><div><em><br></em></div><div><em><br></em></div><div><em>Na Projeto Vida convivi com vários tipos de pessoas, algumas fiz amizades, outras não, mas o tempo que fui usuária de lá foi muito bom e algumas vezes sinto saudades.</em><em style=\"font-size: 1rem;\">”</em></div>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1b",
+          "testimonial": [
+            {
+              "authorName": "Antônio Carlos dos Santos Gomes&nbsp;",
+              "authorBio": "User",
+              "text": "<em>“O Projeto Vida foi sem sombra de dúvida um grande divisor de águas na minha vida no que diz respeito a perspectiva de vida, educação e também na formação do meu caráter, entrei aos 11 anos na instituição, na época meus pais se preocupavam com as horas vagas que eu tinha após o colégio e por isso me matricularam, no projeto tive acesso a aulas de natação, leitura, interação social, mas o que mais me marcou foi o trabalho de acompanhamento psicológico, ter esse tipo de cuidado contribui pra que eu pudesse ver a vida de outra perspectiva, me ajudou a sonhar e a entender que era possível ser aquilo que eu quisesse com tanto que eu me esforçasse e lutasse pra isso.”</em>"
+            },
+            {
+              "authorName": "Thathi Chinarelli",
+              "authorBio": "User",
+              "text": "<p><em>“SOU FELIZ POR TER O QUE O DINHEIRO NAO COMPRA! Sim, precisamos de dinheiro para viver. Mas, existe um mundo cheio de carinho, abracos, sorrisos, sentimentos que nao ha dinheiro nenhum que compre ou pague. Quando voce tem um dia que voce pode cuidar das suas coisas, descansar ou fazer o que quiser, mas escolhe fazer um trabalho VOLUNTARIO, muitas pessoas te acham louca, pelo simples fato de voce nao gastar esse tempo com voce mesmo e sim com os outros e por ser um trabalho nao remunerado. Mas quando voce segue seu sonho e seu coracao, faz o projeto de recreacao para criancas e adolescentes, gasta seu tempo para cuidar e ensinar, de vez ganhar dinheiro, voce ganhar abracos sinceros, amor, carinho e sentimentos que hoje em dia muitas pessoas esquecerem ou ja nem conhecen mais. Voce percebe que as riquezas da vida estao em momentos simples, com brincadeiras, risadas e em pequenos detalhes. Voce passa a valorizar mais a vida, a saude, a familia, as coisas que voce tem e que muitas vezes reclama \"de barriga cheia\", voce se torna um ser humano melhor. Eu agradeco a Deus por essas criancas e adolescente que fazem das minhas sextas-feiras dias melhores, dias que eu esquco do \"EU\" para cuidar delas, que me ensinam muito mais da vida do que eu ensino para elas e que me fazem refletir cuando chego em casa super cansada que mais uma vez vale a pena acordar cedo, enfrentar sono, frio, sol e o que for para estar ali. Hoje eu posso dizer que sou totalmente realizada e feliz com a minha profissao, com as minhas escolham que me fizeram chegar aonde estoy hoje.</em><em style=\"font-size: 1rem;\">”</em></p>"
+            },
+            {
+              "authorName": "Priscila Sales",
+              "authorBio": "User",
+              "text": "<em>“ Na minha opinião a Instituição Projeto Vida ajuda muito crianças e adolescentes a ficarem fora das ruas, porque ensina boas atividades, convívio com outras pessoas, além de fornecer ótimas refeições que complementam no desempenho dos alunos.</em><div><em><br></em></div><div><em><br></em></div><div><em>Na Projeto Vida convivi com vários tipos de pessoas, algumas fiz amizades, outras não, mas o tempo que fui usuária de lá foi muito bom e algumas vezes sinto saudades.</em><em style=\"font-size: 1rem;\">”</em></div>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fbf2be",
+            "hamburgerColor": "#f4bfbb"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><strong>Início</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><strong>Quem Somos?</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\"><strong>O Que Fazemos</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\"><strong>Galeri</strong><strong>a</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Contato</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Partnerships</strong></a></li>",
+          "buttons": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\"><strong>Doe Agora</strong><strong>!</strong><strong><br></strong></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/prefeitura-186x62.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons"
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CCA Quadrangular</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#f4bfbb"
+            },
+            ".nav-link": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-14"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/33021166-1836263023103372-8144741590884155392-o-600x805.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7966-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b>18 DE MAIO</b><br><br>No Dia Nacional de Enfrentamento da Violência e Abuso Sexual Contra Crianças e Adolescentes, as crianças do CCA Quadrangular Projeto Vida foram às ruas manifestar pelos seus direitos.<br><br>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<b>EVENTO CULTURAL</b><div><br></div><div>​​</div><div><br></div><div>O grupo de psicólogos do NÚCLEO ESPIRAL, realiza o 6° Encontro de Autocuidado e Prevenção da Violência, evento promovido em parceria com o CCA Quadrangular Projeto Vida.&nbsp;</div>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "<b>SAÚDE BUCAL</b>&nbsp;<div><br></div><div>​</div><div><br></div><div>O CCA Quadrangular Projeto Vida, em parceria com a UBS Jd. Olinda, realizou em março e abril de 2018 a campanha em pró da saúde bucal.</div><div>A campanha teve como intuito encaminhar crianças que apresentaram cáries e outros problemas bucais para tratamento gratuito em postos de saúde. Foi aplicado fluor e as crianças foram orientadas quanto à escovação</div>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "<b>AIESEC - INTERCAMBISTAS</b><div><br></div><div>​​​</div><div><br></div><div>O CCA Quadrangular Projeto Vida forma uma parceria com a agência de intercâmbios AIESEC, que traz um projeto com voluntários que visa entrar em contato direto com culturas, viver a diversidade, aprender novas línguas, costumes e valores.</div>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1e",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "H4": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/35272172-10155774286289117-3123825857223720960-n-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/apadrinhamento-1-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-7540-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b>AIESEC - INTERCAMBISTAS</b><div><br></div><div>​​​</div><div><br></div><div>O CCA Quadrangular Projeto Vida forma uma parceria com a agência de intercâmbios AIESEC, que traz um projeto com voluntários que visa entrar em contato direto com culturas, viver a diversidade, aprender novas línguas, costumes e valores.</div>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<b>APADRINHAMENTO</b>&nbsp;<div><br></div><div>​</div><div><br></div><div>Todos os anos, o CCA Quadrangular Projeto Vida realiza uma festa de apadrinhamento no final do ano.&nbsp;</div><div>O evento tem como intuito presentear os usuários do CCA, assim como seus irmãos, fazendo com que as famílias atendidas pelo serviço possam ter um natal mais feliz.&nbsp;</div>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "<b>INTOLERANCIA E PRECONCEITO</b><div><br></div><div>​</div><div>Based on the story of Beauty and the Beast, the project aimed to show the difference we can make in a person's life if we treat them without prejudide, regardless of their race, gender, religion, etc.&nbsp;</div>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1o"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "",
+          "items": [
+            {
+              "authorName": "Chaymae",
+              "authorBio": "AIESEC Intercambista do Marrocos",
+              "text": "<em>\"Through the AIESEC project, I have been able to realize the difference between Brazilian culture and the one back home. It has been an eye opening experience and I am so great to have had the opportunity to interact with the CCA Quadrangular members.\"</em>"
+            },
+            {
+              "authorName": "Natália Souza&nbsp;",
+              "authorBio": "User",
+              "text": "<em>“Eu tive duas oportunidades no projeto, uma como usuária e a outra como funcionária, e ao longo do tempo que fiquei lá (seja como usuária ou profissional) aprendi muitas coisas  que foram importantes ao longo do tempo que passei... Acredito que tanto pra mim, quanto pras outras pessoas que já passaram por lá só falaram coisas boas do projeto. É um lugar onde se tem a oportunidade de lutar pelos seus direitos, além de descobrir outros que nem sabíamos que existia, fazer amizades, conviver com o próximo, ter a garantia de direitos básicos como alimentação, cidadania, lazer, cultura, etc... e eu tenho um enorme carinho por todos  de lá. Hoje sou uma pessoa mais consciente, solidária, que procura ajudar sempre que pode e que luta pelos meus direitos e do próximo.”</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1p",
+          "testimonial": [
+            {
+              "authorName": "Chaymae",
+              "authorBio": "AIESEC Intercambista do Marrocos",
+              "text": "<em>\"Through the AIESEC project, I have been able to realize the difference between Brazilian culture and the one back home. It has been an eye opening experience and I am so great to have had the opportunity to interact with the CCA Quadrangular members.\"</em>"
+            },
+            {
+              "authorName": "Natália Souza&nbsp;",
+              "authorBio": "User",
+              "text": "<em>“Eu tive duas oportunidades no projeto, uma como usuária e a outra como funcionária, e ao longo do tempo que fiquei lá (seja como usuária ou profissional) aprendi muitas coisas  que foram importantes ao longo do tempo que passei... Acredito que tanto pra mim, quanto pras outras pessoas que já passaram por lá só falaram coisas boas do projeto. É um lugar onde se tem a oportunidade de lutar pelos seus direitos, além de descobrir outros que nem sabíamos que existia, fazer amizades, conviver com o próximo, ter a garantia de direitos básicos como alimentação, cidadania, lazer, cultura, etc... e eu tenho um enorme carinho por todos  de lá. Hoje sou uma pessoa mais consciente, solidária, que procura ajudar sempre que pode e que luta pelos meus direitos e do próximo.”</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfcfc",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cca-1-265x329.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": "90",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "color": "#5cb85c"
+            }
+          },
+          "text1": "<font color=\"#0275d8\"><b>Encontre-nos</b></font><br>Av. Anacé. 551<br>Jd. Umarizal, São Paulo – SP 05755-090<br>",
+          "text2": "<font color=\"#0275d8\"><b>Contate-nos</b></font><br>projetovida.ong@gmail.com<br>Tel: (11) 5841-0475<br>Cel: (11) 94536-8957<br>",
+          "text3": "<font color=\"#0275d8\"><b>Faça uma doação</b></font><br><ul><li>Doe Agora</li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-w",
+          "_styles": {
+            "P": {
+              "color": "#f1c050"
+            },
+            "STRONG": {
+              "color": "#0275d8"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Siga-nos em:",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Projeto-Vida-Quadrangular-1946605802296016/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/user/projetovida32\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/projetovidaquadrangular/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1g",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            }
+          }
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Contate-nos",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fbf2be",
+            "hamburgerColor": "#f4bfbb"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><strong>Início</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><strong>Quem Somos?</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\"><strong>O Que Fazemos</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\"><strong>Galeri</strong><strong>a</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Contato</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Partnerships</strong></a></li>",
+          "buttons": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\"><strong>Doe Agora</strong><strong>!</strong><strong><br></strong></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/prefeitura-186x62.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CCA Quadrangular</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#f4bfbb"
+            },
+            ".nav-link": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-15"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-7547-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Fale com a gente!",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1j",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Entre em contato",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contate-nos</a>",
+          "form": {
+            "action": "projetovida.ong@gmail.com",
+            "alerts": {
+              "success": "Muito obrigado por contatar-nos! Entraremos em contato em breve."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Endereço de e-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "número de telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Deixe uma messagem. "
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1k"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#73757b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Av. Anacé, 551\nSão Paulo – SP 05755-090\n\n",
+              "placeId": "EjpBdi4gQW5hY8OpLCA1NTEgLSBKYXJkaW0gVW1hcml6YWwsIFPDo28gUGF1bG8gLSBTUCwgQnJhc2lsIhsSGQoUChIJiSmYpQVUzpQRxkF-rVOHP_YQpwQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "Endereço:<br><br>Av. Anacé, 551 - Jardim Umarizal<br>São Paulo – SP 05755-090<br><br>Email:&nbsp;<br>projetovida.ong@gmail.com<br><br>Tel: (11) 5841-0475<br>Cel: (11) 94536-8957",
+          "text2": "<ul></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-x",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Siga-nos em:",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Projeto-Vida-Quadrangular-1946605802296016/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-22",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            }
+          }
+        },
+        {
+          "_params": {
+            "token": "7074244090.727bfe1.13aa5b51760a4ce6b9497a9d8301d0e2",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1804521310652961336_7074244090\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-24"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Partnerships",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fbf2be",
+            "hamburgerColor": "#f4bfbb"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><strong>Início</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><strong>Quem Somos?</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\"><strong>O Que Fazemos</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\"><strong>Galeri</strong><strong>a</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Contato</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\"><strong>Partnerships</strong></a></li>",
+          "buttons": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\"><strong>Doe Agora</strong><strong>!</strong><strong><br></strong></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/prefeitura-186x62.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons"
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CCA Quadrangular</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#f4bfbb"
+            },
+            ".nav-link": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-28"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Partnerships",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2b",
+          "_styles": {
+            "H2": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Nucleo Espiral",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "AIESEC",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Academia Grace",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "UBS",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-2a"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/igreja-quadrangular-225x225.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prefeitura-de-sao-paulo-256x313.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "UBS",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Igreja Quadrangular",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-2c"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfcfc",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cca-1-265x329.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "90",
+              "color": "#5cb85c"
+            }
+          },
+          "text1": "<font color=\"#0275d8\"><b>Encontre-nos</b></font><br>Av. Anacé. 551<br>Jd. Umarizal, São Paulo – SP 05755-090<br>",
+          "text2": "<font color=\"#0275d8\"><b>Contate-nos</b></font><br>projetovida.ong@gmail.com<br>Tel: (11) 5841-0475<br>Cel: (11) 94536-8957<br>",
+          "text3": "<font color=\"#0275d8\"><b>Faça uma doação</b></font><br><ul><li>Doe Agora</li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#f1c050"
+            },
+            "STRONG": {
+              "color": "#0275d8"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "contacts1-29"
+        }
+      ]
+    }
+  }
+}
